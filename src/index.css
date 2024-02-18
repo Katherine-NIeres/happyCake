@@ -1,0 +1,30 @@
+.Titulo{
+    display: flex;
+    justify-content: center;
+}
+.texto-2{
+    display: flex;
+    justify-content: center;
+}
+.img-1{
+    display:flex;
+    justify-content: center;
+}
+
+.boton{
+    display:flex;
+    justify-content: center;
+}
+
+.correo{
+    display: flex;
+    justify-content: center;
+}
+.info{
+    display: flex;
+    justify-content: center;
+}
+.titulo-3{
+    display: flex;
+    justify-content: center;
+}
